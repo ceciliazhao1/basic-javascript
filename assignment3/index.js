@@ -6,9 +6,11 @@ const port = 8080
 app = express();
 
 const fs = require('fs');
+const passphrase = 'zhaochao15=-'
 const httpsOptions = {
-    key: fs.readFileSync('key.pem'),
-    cert: fs.readFileSync('cert.pem')
+    key: fs.readFileSync('key.pem','utf8'),
+    cert: fs.readFileSync('cert.pem','utf8'),
+    passphrase: passphrase
 }
 const server = https.createServer(httpsOptions,app);
 
