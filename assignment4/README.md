@@ -1,4 +1,4 @@
-# Assignment 4 Testing Result
+# Result
 
 ## routes/getDevice.js
 
