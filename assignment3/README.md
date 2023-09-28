@@ -30,15 +30,12 @@ In Express, you manipulate headers using the response object for sending respons
 
 
 ## Results 
+<img width="1327" alt="截屏2023-09-22 下午3 10 44" src="https://github.com/ceciliazhao1/basic-javascript/assets/109279413/51231f69-2e69-432f-91ee-c62c2304fe13">
 
-![Screenshot 2023-09-18 212217](https://github.com/SharonCao0920/basic-javascript/assets/54694766/78c3d15e-82e0-4ae1-b4a9-bb155be8d988)
+<img width="1325" alt="截屏2023-09-22 下午3 10 58" src="https://github.com/ceciliazhao1/basic-javascript/assets/109279413/2849858b-cca0-4227-bc7e-b137f91c262f">
+<img width="1320" alt="截屏2023-09-22 下午3 11 15" src="https://github.com/ceciliazhao1/basic-javascript/assets/109279413/bb81f34e-8e60-407f-a0ca-4e8600b3acbb">
 
-![Screenshot 2023-09-18 212229](https://github.com/SharonCao0920/basic-javascript/assets/54694766/d11a794a-8054-4476-9026-bfdaf838fdc1)
-
-![Screenshot 2023-09-18 212253](https://github.com/SharonCao0920/basic-javascript/assets/54694766/f9924abf-8f39-440a-8039-de776c8b426f)
-
-![Screenshot 2023-09-18 213114](https://github.com/SharonCao0920/basic-javascript/assets/54694766/d68d4f31-61c2-4d21-a7e9-51a57a558389)
-
+<img width="1325" alt="截屏2023-09-22 下午3 11 28" src="https://github.com/ceciliazhao1/basic-javascript/assets/109279413/48fc2b2b-b5bb-42f4-93da-0dc0782e1f75">
 
 # API Parameters
 
