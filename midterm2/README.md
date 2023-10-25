@@ -90,6 +90,9 @@ Testing the project using Postman.
 * **Create a Tracking:**
   
 ![image](img/getShipment.png)
+
+* **Get a TrackingID:**
+
 ![image](img/getShipment2.png)
 
 
