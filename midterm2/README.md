@@ -117,6 +117,5 @@ Testing the project using Postman.
 
 
 ### TrackingMore Preview
-
-![image](img/page.png)
+![image]<img src="page.png" alt="Alt Text" width="300">
 
