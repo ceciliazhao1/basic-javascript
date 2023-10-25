@@ -91,11 +91,11 @@ Testing the project using Postman.
 
 * **Create a Tracking:**
   
-![image](img/getShipment.png)
+![image](img/postInfo.png)
 
 * **Get a TrackingID:**
 
-![image](img/getShipment2.png)
+![image](img/getID.png)
 
 
 * **Data Saved:**
@@ -112,9 +112,8 @@ Testing the project using Postman.
 
 
 * TackingMore API
-
-![image](img/postInfo.png)
-
+![image](img/getShipment.png)
+![image](img/getShipment2.png)
 
 
 ### TrackingMore Preview
