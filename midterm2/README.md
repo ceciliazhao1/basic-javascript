@@ -113,9 +113,9 @@ Testing the project using Postman.
 
 * TackingMore API
 
-![image](img/getShipment2.png =300x)
+![image](img/getShipment2.png)
 
 
 ### TrackingMore Preview
-![image]<img src="page.png" alt="Alt Text" width="300">
+![image](img/page.png)
 
