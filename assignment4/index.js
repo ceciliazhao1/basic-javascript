@@ -1,4 +1,3 @@
-
 const https = require('https');
 const fs = require('fs');
 const express = require('express');
@@ -33,6 +32,16 @@ app.get('/get-device',(req,res)=>{
 
 app.get('/get-ip',(req,res)=>{
   const userIp = req.headers['x-forwarded-for'] || req.socket.remoteAddress;
+  try {
+    if(userIp){
+       const location = getUserZipCode(userIp)
+
+       return location
+    }
+  }
+  catch(err){
+    console.log(err)
+  }
   res.send({userIp})
 })
 

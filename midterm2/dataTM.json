@@ -1,0 +1,41 @@
+[
+    {
+        "tracking_number": "LX1234566678CN",
+        "courier_code": "cainiao",
+        "order_number": "1113",
+        "destination_code": "LV",
+        "logistics_channel": "4px channel",
+        "customer_name": "test",
+        "customer_email": "example@abc.com",
+        "customer_phone": "+1123456789",
+        "note": "check",
+        "title": "title",
+        "lang": "en"
+    },
+    {
+        "tracking_number": "92055900100111152280003029",
+        "courier_code": "ups",
+        "order_number": "1",
+        "destination_code": "CA",
+        "logistics_channel": "4px channel",
+        "customer_name": "test",
+        "customer_email": "example@abc.com",
+        "customer_phone": "+1123456789",
+        "note": "check",
+        "title": "title",
+        "lang": "en"
+    },
+    {
+        "tracking_number": "1Z4937W56728755212",
+        "courier_code": "ups",
+        "order_number": "2",
+        "destination_code": "OR",
+        "logistics_channel": "4px channel",
+        "customer_name": "test",
+        "customer_email": "example@abc.com",
+        "customer_phone": "+1123456789",
+        "note": "check",
+        "title": "title",
+        "lang": "en"
+    }
+]
