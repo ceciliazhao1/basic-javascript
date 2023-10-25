@@ -67,6 +67,8 @@ With the data posted in previous section, create a method to save the data to da
      
   2. Use the tracking number and provider information as parameters to call the tracking API to get the shipment status.
 
+* **API URL:
+https://api.trackingmore.com/v3/trackings/get?tracking_numbers=
 
 ## Run Project
 
