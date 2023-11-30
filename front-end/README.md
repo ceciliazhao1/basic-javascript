@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 #### Structure the Project
 
-[!image]<img src='readme_img/sturcture.png'>
+[!image]<img src='readme_img/structure.png'>
 
 
 ##### Result
