@@ -21,6 +21,6 @@ You may also see any lint errors in the console.
 
 ##### Result
 
-[!image]<img src='readme_img/result1.png'>
-
 [!image]<img src='readme_img/result2.png'>
+
+[!image]<img src='readme_img/result1.png'>
