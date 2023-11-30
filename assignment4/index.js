@@ -6,7 +6,12 @@ const getDevice = require('./routes/getDevice');
 const getUser = require('./routes/getUser');
 const { escape } = require("querystring");
 
+//database
+import {connectToDatabase} from './database.js';
+connectToDatabase();
+
 app = express();
+
 
 const port = 8080
 const passphrase = 'zhaochao15=-'
