@@ -1,0 +1,84 @@
+.container {
+  max-width: 1300px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/* Base padding-top for mobile views */
+.main-content {
+  padding-top: 10px; /* Example for a taller mobile header */
+  margin-left: 150px;
+  max-height: 150vh; /* Adjust the height as needed */
+  overflow-y: auto; /* This will add a scrollbar if the content overflows */
+  margin-top: 20px;
+  margin-bottom: 70px;
+}
+
+/* Adjust padding-top for desktop views */
+@media (min-width: 768px) {
+  .main-content {
+    padding-top: 40px; /* Example for a shorter desktop header */
+  }
+}
+
+.articles {
+  
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar {
+  height: 100vh;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  float: left;
+  align-items: center;
+  text-align: left; /* If you also want to center-align the text */
+}
+
+
+/* 
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} 
+*/

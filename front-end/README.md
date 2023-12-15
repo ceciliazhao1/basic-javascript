@@ -16,11 +16,11 @@ You may also see any lint errors in the console.
 
 #### Structure the Project
 
-[!image]<img src='readme_img/structure.png'>
+[!image]<img src='readme_img/sturcture.png'>
 
 
 ##### Result
 
-[!image]<img src='readme_img/result2.png'>
-
 [!image]<img src='readme_img/result1.png'>
+
+[!image]<img src='readme_img/result2.png'>
